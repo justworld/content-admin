@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class DemoConfig(AppConfig):
+class ContentConfig(AppConfig):
     name = 'apps.content'
     verbose_name = '文章管理'
